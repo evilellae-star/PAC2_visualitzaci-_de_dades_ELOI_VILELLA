@@ -6,7 +6,15 @@
 
 ## Descripció del projecte
 
-Aquest projecte forma part de la **PAC2 de l’assignatura de Visualització de Dades**.  
+En aquesta PAC 2 es demana d'explorar **tres tècniques de visualització** diferents.
+L’objectiu és entendre’n **l’origen, el funcionament, els avantatges i limitacions**, i crear una **visualització pròpia** amb dades obertes per a cadascuna.
+
+Les tècniques assignades són:
+
+1. Dot Density Map\
+2. Circular Dendrogram\
+3. UpSet Plot
+
 ---
 
 ## Contingut
