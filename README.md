@@ -17,7 +17,7 @@ Aquest projecte forma part de la **PAC2 de l’assignatura de Visualització de 
 |----------------|-------------|---------|
 | **Dot Density Map** | Representa les estacions de recàrrega per a vehicles elèctrics a Catalunya. Cada punt equival a una estació, mostrant la seva distribució geogràfica. | [`docs/dot_denisty_map.png`](docs/dot_denisty_map.png) |
 | **Circular Dendrogram** | Representació jeràrquica circular per mostrar relacions i proximitat entre especies de eukaryotes. | [`docs/circular_dendogram.png`](docs/circular_dendogram.png) |
-| **UpSet Plot** | Alternativa moderna als diagrames de Venn per visualitzar intersections entre conjunts en el nostre exemple tipus de vehicles implicats en accidents. | [`docs/Upset.png`](docs/Upset.png) |
+| **UpSet Plot** | Alternativa moderna als diagrames de Venn per visualitzar intersections entre conjunts en el nostre exemple tipus de vehicles implicats en accidents. | [`docs/UpSet.png`](docs/UpSet.png) |
 
 ---
 
