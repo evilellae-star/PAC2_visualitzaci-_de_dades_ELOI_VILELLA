@@ -1,4 +1,4 @@
-# PAC2 – Visualització de Dades a Catalunya
+# PAC2 – Visualització de Dades
 
 <div align="center">
   <img src="resources/logo.png" alt="Project Logo" width="200"/>
