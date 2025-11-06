@@ -11,8 +11,8 @@ L’objectiu és entendre’n **l’origen, el funcionament, els avantatges i li
 
 Les tècniques assignades són:
 
-1. Dot Density Map\
-2. Circular Dendrogram\
+1. Dot Density Map
+2. Circular Dendrogram
 3. UpSet Plot
 
 ---
